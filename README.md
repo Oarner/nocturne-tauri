@@ -78,3 +78,4 @@ export default defineConfig([
 # Nocturne
 Fast music player with fluentui integration coded in rust
 >>>>>>> c5544ec25710e65c84a9bc7c9f97b52b4ef7c1bb
+//testedit
